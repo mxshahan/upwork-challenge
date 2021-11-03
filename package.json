@@ -54,7 +54,7 @@
     "shelljs": "^0.8.3",
     "uuid": "^3.3.2",
     "valid-url": "^1.0.9",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=production node bin/prod.js",
